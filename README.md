@@ -1,5 +1,7 @@
-👋 Hi, I’m Hamza << endl
-👀 I’m interested in Ethical Hacking <<endl
+👋 Hi, I’m Hamza
+
+👀 I’m interested in Ethical Hacking
+
 🌱 I’m currently learning BS cybersecurity
 
 <!---
